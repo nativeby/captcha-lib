@@ -1,0 +1,17 @@
+{
+    "name": "captcha-lib",
+    "description": "This library includes all the classes needed for captcha.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nativeby",
+            "email": "nativeby@163.com"
+        }
+    ],
+
+    "autoload": {
+        "classmap" : [
+            "src/"
+        ]
+    }
+}
